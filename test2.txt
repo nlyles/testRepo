@@ -1,0 +1,1 @@
+Hello! This is the second test document for the git tutorial lab.
